@@ -22,4 +22,6 @@ public interface SiteService extends Service {
 
 	void deleteBySiteId(String siteId);
 
+	void deletePage(String siteId, String pageId);
+
 }

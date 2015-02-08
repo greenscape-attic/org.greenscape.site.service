@@ -2,3 +2,5 @@ Bundle-Version: 0.1.0
 Export-Package: org.greenscape.site.service
 -buildpath:  \
 	org.greenscape.core;version=latest
+javac.source=1.8
+javac.target=1.8
